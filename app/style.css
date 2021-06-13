@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'Minecraft';
+	src: url('Minecraft.woff2') format('woff2'),
+		url('Minecraft.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+body {
+	background-color: #440000;
+	color: white;
+
+	font-family: 'Minecraft';
+	font-size: 24pt;
+	text-align: center;
+}
+
+.the-magma-block {
+	text-align: center;
+	margin-top: 40px;
+}
+
+h3 {
+	margin-top: 70px;
+	animation-duration: 0.5s;
+	animation-name: text;
+	animation-iteration-count: infinite;
+}
+
+@keyframes text {
+	0%	{ transform: rotate(-2deg); }
+	50%	{ transform: rotate(2deg); }
+	100%{ transform: rotate(-2deg); }
+}

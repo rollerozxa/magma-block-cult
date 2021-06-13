@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=The Magma Block Cult
+Comment=The Magma Block Cult
+Exec=magma-block-cult
+Icon=magma-block-cult
+Terminal=false
+StartupNotify=false
+Categories=Education;
