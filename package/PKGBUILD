@@ -1,6 +1,6 @@
 # Maintainer: ROllerozxa <temporaryemail4meh@gmail.com>
 pkgname=magma-block-cult
-pkgver=1.0.2
+pkgver=1.0.3
 pkgrel=1
 pkgdesc="The Magma Block Cult"
 arch=(any)
